@@ -1,0 +1,4 @@
+// create a .env file in /my-app and add the api key to env file:  'REACT_APP_API_KEY = 'your-api-kei' (https://developers.giphy.com/)
+// running locally: 'npm install' + 'npm run start'
+// testing: 'npm run test'
+// production build: 'npm run build'
